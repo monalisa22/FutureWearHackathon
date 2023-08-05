@@ -47,6 +47,9 @@ Web page
 ## Roadmap
 ![collage (2)](https://github.com/monalisa22/FutureWearHackathon/assets/100671634/d175dc6d-26a2-4074-aa0e-6eeb1d214c7b)
 
+## PCB design of Smart Watch
+![WhatsApp Image 2023-08-05 at 6 37 23 AM](https://github.com/monalisa22/FutureWearHackathon/assets/100671634/d07393a4-903d-4a44-96e9-bac5d5f17a30)
+
 
 
 ## Tools and Tech Stacks
