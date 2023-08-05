@@ -11,6 +11,11 @@ http://127.0.0.1:5000
 ```
 This will launch the website. In order to check your fitness, first login with your username and password and then click on Check your fitness button. This will take you to a page which will show you the live sensor data along with your stress level and fitness index prediction and you can also see your BMI index
 
+Or you an directly visit this link where we have hosted our website
+```bash
+https://misramrinal.pythonanywhere.com/
+```
+
 This project aims at developing an innovative solution that uses non-invasive methods or facial reading technologies to collect health vitals and derive a fitness score that is accurate, reliable, scalable, and can be deployed in various settings, from individual homes to large healthcare organizations.The model has an accuracy of 94%.
 
 Our solution approach is:
@@ -23,7 +28,13 @@ Our solution approach is:
 
  
 
- 
+ ### Built With
+
+
+* [![Python][Python]][Python-url]
+* [![Pandas][Pandas]][Pandas-url]
+* [![Scikit-Learn][Scikit-Learn]][Scikit-Learn-url]
+* [![Streamlit][Streamlit]][Streamlit-url]
 
 
 
