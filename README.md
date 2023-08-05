@@ -47,14 +47,13 @@ Our solution approach is:
 
 
 Web page
-![WhatsApp Image 2023-07-16 at 4 39 06 PM](https://github.com/monalisa22/FutureWearHackathon/assets/100671634/e2c5798c-f9a8-491f-b214-09a60c50b68d)
+![WhatsApp Image 2023-08-05 at 7 11 59 AM (2)](https://github.com/monalisa22/FutureWearHackathon/assets/100671634/5a08b37c-7422-46c8-bbdb-203e1a2174ec)
+![WhatsApp Image 2023-08-05 at 7 11 59 AM](https://github.com/monalisa22/FutureWearHackathon/assets/100671634/b99173a1-d04c-4116-bd11-d04bf7382d7d)
+![WhatsApp Image 2023-08-05 at 7 11 59 AM (1)](https://github.com/monalisa22/FutureWearHackathon/assets/100671634/6dcf7062-292f-426e-80ff-279039d7bde0)
+
 
 Phone App
 ![collage](https://github.com/monalisa22/FutureWearHackathon/assets/100671634/f4401f47-272e-489b-a441-be9e978d9d21)
-
-
-Emotion Detection
-![collage (1)](https://github.com/monalisa22/FutureWearHackathon/assets/100671634/1578eb7f-4d6b-4892-9631-ee029b4e80ad)
 
 
 ## Roadmap
