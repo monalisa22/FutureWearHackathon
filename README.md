@@ -1,5 +1,16 @@
 # Smart Wear
 
+## Launching
+### In order to run the website
+```bash
+python3 login.py
+```
+Then click on the link provided in the terminal
+```bash
+http://127.0.0.1:5000
+```
+This will launch the website. In order to check your fitness, first login with your username and password and then click on Check your fitness button. This will take you to a page which will show you the live sensor data along with your stress level and fitness index prediction and you can also see your BMI index
+
 This project aims at developing an innovative solution that uses non-invasive methods or facial reading technologies to collect health vitals and derive a fitness score that is accurate, reliable, scalable, and can be deployed in various settings, from individual homes to large healthcare organizations.The model has an accuracy of 94%.
 
 Our solution approach is:
